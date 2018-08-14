@@ -1,0 +1,43 @@
+
+h1,h2{
+    color:#5D1277;
+    text-align: center;
+}
+
+.conteudo{
+    margin:0 350px;
+}
+
+.conteudo div{
+    color: #5D1277;
+    display: inline-block;
+    margin:0px 0px 100px 20px;
+ }
+
+.conteudo_a{
+   text-align: center;
+ }
+
+ img{
+     width: 400px;
+ }
+
+.btn-roxo{
+    background-color:#5D1277;
+    color:white;
+    padding: 12px 65px;
+    border-radius: 5px;
+}
+.btn-branco{
+    border:2px solid #5D1277;
+    color:#5D1277;
+    padding: 10px 35px;
+    border-radius: 5px;
+}
+li{
+    padding:10px;
+}
+
+ul{
+    list-style: none;
+}
