@@ -7,4 +7,4 @@ Objetivos do exercício:
 - Fixar os conceitos de estruturação da página (div)
 - Aprender sobre listas ordenadas e não ordenadas
 - Alinhar elementos horizontalmente e verticalmente
-- Criar links com estilos de botões
+- Criar links com estilo de botões
