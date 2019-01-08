@@ -24,7 +24,7 @@ h2{
 }
 
 .conteudo{
-    margin-top: 36px;
+    margin-top: 30px;
 }
 
 .conteudo__coluna{
@@ -74,6 +74,7 @@ ul{
     margin-bottom: 19px;
     border-radius: 5px;
     border:2px solid #5D1277;
+    text-decoration: none;
 }
 
 .btn_roxo{
